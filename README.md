@@ -11,8 +11,8 @@ npx color-shades-generator
 It will prompt you with some simple questions regarding your color and custom name you\ wand to give 
 to your variables. 
 
-<!-- 
-![screenshot]() -->
+
+![screenshot](https://github.com/satishnaikawadi2001/color-shades-generator/blob/master/screenshots/demo.jpg)
 
 On passed through all those questions,if you check the root directory of your project you should now have variables.css file created which has 26 CSS Variables appended and ready to use in your project. 
 
