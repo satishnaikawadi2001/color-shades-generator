@@ -19,7 +19,7 @@
     "Color-Palette"
   ],
   "author": "Satish Naikawadi",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^7.3.3"
