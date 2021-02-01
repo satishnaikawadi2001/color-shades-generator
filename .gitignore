@@ -1,0 +1,3 @@
+# add ssh://git
+# $ git remote set-url origin ssh://git@github.com/satishnaikawadi2001/color-shades-generator
+node_modules

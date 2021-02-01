@@ -1,0 +1,30 @@
+{
+  "name": "color-shades-generator",
+  "version": "1.0.0",
+  "description": "Quickly generate CSS color shades with variables from a base HEX,RGB or HSL color.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "CSS",
+    "CSS-Variables",
+    "Variables",
+    "CSS-Colors",
+    "CSS-Color-Shades",
+    "Color-Shades",
+    "Color-Generator",
+    "Shades-Generator",
+    "Color-Palette"
+  ],
+  "author": "Satish Naikawadi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/satishnaikawadi2001/color-shades-generator/issues"
+  }
+}
