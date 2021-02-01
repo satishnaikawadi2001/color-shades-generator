@@ -24,7 +24,12 @@
     "colors": "^1.4.0",
     "inquirer": "^7.3.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishnaikawadi2001/color-shades-generator.git"
+  },
   "bugs": {
     "url": "https://github.com/satishnaikawadi2001/color-shades-generator/issues"
-  }
+  },
+  "homepage": "https://github.com/satishnaikawadi2001/color-shades-generator#readme"
 }
